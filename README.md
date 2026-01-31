@@ -13,6 +13,7 @@
 ---
 
 ### 🚀 Tecnologias
+- Java
 - Python
 <!--- HTML / CSS-->
 <!---- JavaScript-->
