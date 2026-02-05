@@ -15,8 +15,6 @@
 ### 🚀 Tecnologias
 - Java
 - Python
-<!--- HTML / CSS-->
-<!---- JavaScript-->
 - Linux
 
 ### 📌 Projetos em destaque
