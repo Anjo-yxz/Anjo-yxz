@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou Uruma 👋</h1>
+<h1 align="center">Olá, eu sou Uruma  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> </h1>
 
 <p align="center">
   Estudante de programação • Cibersegurança •
