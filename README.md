@@ -16,6 +16,3 @@
 - Java
 - Python
 - Linux
-
-### 📌 Projetos em destaque
-- Forum-lev
