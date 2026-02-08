@@ -33,5 +33,5 @@
 ---
 
 ## Socials:
-[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](www.linkedin.com/in/uruma-yxz)
+[<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/uruma-yxz/)
 [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](http://gmailto:filipesistema2011@gmail.com/)
