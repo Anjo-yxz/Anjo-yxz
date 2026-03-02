@@ -22,7 +22,7 @@
 
 ### ⚙️ Backend
 <p>
- <img src="https://skillicons.dev/icons?i=java,python"
+ <img src="https://skillicons.dev/icons?i=cpp,java,python"
 </p>
 
 ### 🧰 Tools & Platforms
