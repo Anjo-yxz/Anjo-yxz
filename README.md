@@ -22,14 +22,23 @@
 
 ### ⚙️ Backend
 <p>
- <img src="https://skillicons.dev/icons?i=cpp,java,python"
+<img src="https://skillicons.dev/icons?i=java">
+<img src="https://skillicons.dev/icons?i=cpp">
+<img src="https://skillicons.dev/icons?i=python">
 </p>
+
+# 
 
 ### 🧰 Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,arch,notion,discord" />
 </p>
 
+| Rank | Linguagem | Ícone |
+|-----|-----------|-------|
+| 🥇 | **Java** | <img src="https://skillicons.dev/icons?i=java" height="40"> |
+| 🥈 | **C++** | <img src="https://skillicons.dev/icons?i=cpp" height="40"> |
+| 🥉 | **Python** | <img src="https://skillicons.dev/icons?i=python" height="40"> |
 ---
 
 ## Socials:
