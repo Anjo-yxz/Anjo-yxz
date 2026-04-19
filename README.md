@@ -21,24 +21,32 @@
 ### ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=java">
-<img src="https://skillicons.dev/icons?i=cpp">
 <img src="https://skillicons.dev/icons?i=python">
+<img src="https://skillicons.dev/icons?i=cpp">
 </p>
 
-# 
+
+---
+<p align="center">
+<img width="500" height="281" alt="13230" src="https://github.com/user-attachments/assets/c6ba53c7-b6b9-4064-bc76-67181134fef1" />
+</p>
+
+---
 
 ### 🧰 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arch,notion,discord" />
-</p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+   </p>
+   
+### 🌐 IDE
+  <p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
+    </p>
+    
+### 🤖 OS
+  <img src="https://skillicons.dev/icons?i=arch,debian" />
 
-| Rank | Linguagem | Ícone |
-|-----|-----------|-------|
-| 🥇 | **Java** | <img src="https://skillicons.dev/icons?i=java" height="40"> |
-| 🥈 | **C++** | <img src="https://skillicons.dev/icons?i=cpp" height="40"> |
-| 🥉 | **Python** | <img src="https://skillicons.dev/icons?i=python" height="40"> |
 ---
-
 ## Socials:
 [<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />](https://www.linkedin.com/in/uruma-yxz/)
 [<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />](http://gmailto:filipesistema2011@gmail.com/)
