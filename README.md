@@ -44,7 +44,7 @@
     </p>
     
 ### 🤖 OS
-  <img src="https://skillicons.dev/icons?i=arch,debian" />
+  <img src="https://skillicons.dev/icons?i=arch,kali,debian" />
 
 ---
 ## Socials:
