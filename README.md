@@ -18,11 +18,18 @@
   <img src="https://skillicons.dev/icons?i=html,css,js">
 </p>
 
+### 🧩 Framework 
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,selenium"> 
+</p>
+
 ### ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=java">
 <img src="https://skillicons.dev/icons?i=python">
 <img src="https://skillicons.dev/icons?i=cpp">
+<img src="https://skillicons.dev/icons?i=mysql">
 </p>
 
 
